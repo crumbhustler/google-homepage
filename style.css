@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+  }
+
+  .footer {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  
+  li a {
+    color: #666;
+  }
+
+  #main-logo img{
+    border-width: 10px;
+    border-color: rgb(255, 0, 43);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 20px;    
+}
+
+#search-quiery {
+    display: block;
+    align-content: center:
+}
+
+#buttons{
+   text-align: center;
+   padding: 5pt;
+   border: solid-black;
+   border: 50pt;
+}
